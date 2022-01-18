@@ -1,0 +1,29 @@
+body { background-color: rgb(253, 251,251);text-align: center;}
+
+#cabecalho { position:fixed;top: 0px;background-color:#A52A2A; width: 100%;z-index: 500; margin-left: -8px;}
+nav {text-align: left;}
+
+img {width: 200px; bottom: 10px;margin-top: 100px; border-radius: 100%; padding: 10px; position:relative;z-index: 1; ; }
+
+h1{text-align: center;}
+
+p,li { font-size: 15px; color: gray; font-family: 'Courier New', Courier, monospace; letter-spacing: 1px; line-height: 15px;}
+
+h2{ font-family: 'Courier New', Courier, monospace;}
+
+#artigo, #passagem {background-color: #A52A2A; font-weight:bold; margin: 10px; padding: 20px; border-radius: 40px; display: block; position: absolute;}
+
+#artigo {width: 40%; z-index: 2;left: 10px; }
+
+#passagem {width: 40%; right: 10px;z-index: 3;} 
+
+#listas{position:relative; z-index: 4; top: 300px ;padding-bottom: 10px; text-align: left;}
+
+ul{position:absolute;}
+
+
+
+
+
+
+
